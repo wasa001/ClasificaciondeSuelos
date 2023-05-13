@@ -3,6 +3,6 @@ from funciones.granulometria import Granulometria , GranulometriaFina
 
 
 Granulometria()
-cartaDePlasticidad()
+CPlasticidad()
 GranulometriaFina()
 
