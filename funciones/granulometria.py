@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from Funciones.Inputs import DatosIniciales
+from funciones.Inputs import DatosIniciales
 
 #Se grafica la granulometria
 def Granulometria():
