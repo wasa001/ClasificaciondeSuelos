@@ -1,8 +1,8 @@
 from funciones.cartaplasticidad import cartaDePlasticidad
-from funciones.granulometria import Granulometria , GranulometriaFina
+from funciones.granulometria import Granulometria
+from funciones.clasificacion import *
 
 
 Granulometria()
-CPlasticidad()
-GranulometriaFina()
+clasificacion()
 
