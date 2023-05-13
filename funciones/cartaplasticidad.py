@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from funciones.Input import DatosIniciales
+from funciones.Inputs import DatosIniciales
 
 def CPlasticidad():
   #Se grafica la carta de plasticidad en las siguientes lineas
